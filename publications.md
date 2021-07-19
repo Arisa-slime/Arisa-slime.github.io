@@ -1,9 +1,1 @@
----
-layout: page
-title: Publications
----
-
-Person et al. (2021) Make-believe paper. _A journal_ 1:100-105.
-
-White TE, Latty T (2020) Flies improve the salience of iridescent sexual signals by orienting toward the sun. [_Behavioural Ecology_](https://doi.org/10.1093/beheco/araa098) 31, 1401-1409.  
-| [pdf]({{ site.url }}/documents/white_latty_2020_flies_improve_the_salience_of_iridescent_sexual_signals_by_orienting_toward_the_sun.pdf) |
+﻿---layout: pagetitle: Publications---Hosokawa A., Reid, C.R and Latty, T. (2019) Slimes in the city: The diversity of myxomycetes from inner-city and semi-urban parks in Sydney, Australia.Slimes in the city: The diversity of myxomycetes from inner-city and semi-urban parks in Sydney, Australia. [_Fungal Ecology_](https://doi.org/10.1016/j.funeco.2018.11.004) 39, 37-44.  | [pdf]({{ site.url }}/documents/hosokawa_reid_latty_2019_slimes_in_the_cityhosokawa_reid_latty_2019_slimes_in_the_city.pdf) + [correction]({{ site.url }}/documents/correction_hosokawa_reid_latty_2019_slimes_in_the_city.pdf)
