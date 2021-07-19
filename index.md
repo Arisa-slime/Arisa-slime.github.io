@@ -1,1 +1,1 @@
-﻿﻿﻿---layout: page---I'm a PhD student at Sydney University, studying behavioural variation in slime moulds.
+﻿﻿﻿﻿---layout: pagesubtitle: Slime mould behaviour and variation---I'm a PhD student at Sydney University, studying behavioural variation in slime moulds.
