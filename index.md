@@ -1,1 +1,1 @@
-﻿---layout: page---I'm blank, a blank at blank university. Take a look at my research and stuff or whatever.
+﻿﻿﻿---layout: page---I'm a PhD student at Sydney University, studying behavioural variation in slime moulds.
